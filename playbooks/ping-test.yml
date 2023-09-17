@@ -1,0 +1,8 @@
+---
+- name: Test Ping All Hosts
+  hosts: all
+
+  tasks:
+    - name: Send Ping
+      ansible.builtin.ping:
+        data: pong
