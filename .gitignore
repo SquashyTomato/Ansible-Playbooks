@@ -1,0 +1,3 @@
+# Ansible Gitignore
+.DS_Store
+inventory.ini

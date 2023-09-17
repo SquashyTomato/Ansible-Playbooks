@@ -1,0 +1,7 @@
+{
+    "editor.insertSpaces": true,
+    "editor.renderWhitespace": "selection",
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "files.eol": "\n"
+}
